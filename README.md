@@ -1,2 +1,3 @@
-# Algoritmos de clustering para agrupar datos con características similares de manera automática.
-# La clusterización, también conocida como agrupamiento (clustering en inglés), se utiliza para descubrir patrones o estructuras ocultas en conjuntos de datos no etiquetados. El objetivo es agrupar los elementos en clusters o grupos similares entre sí en función de las características o propiedades que comparten. La clusterización se basa en la similitud o la distancia entre los elementos, y no requiere que los datos estén previamente etiquetados o clasificados.
+# Clustering con Python y scikit-learn
+## Algoritmos de clustering para agrupar datos con características similares de manera automática.
+### La clusterización, también conocida como agrupamiento (clustering en inglés), se utiliza para descubrir patrones o estructuras ocultas en conjuntos de datos no etiquetados. El objetivo es agrupar los elementos en clusters o grupos similares entre sí en función de las características o propiedades que comparten. La clusterización se basa en la similitud o la distancia entre los elementos, y no requiere que los datos estén previamente etiquetados o clasificados.
